@@ -1,0 +1,44 @@
+JSON data format
+
+[
+{
+    "name": "Elon Musk",
+    "imgUrl": "https://media.gettyimages.com/photos/tesla-ceo-elon-musk-speaks-during-the-unveiling-of-the-new-tesla-y-picture-id1130598318?s=2048x2048"
+},
+{
+    "name": "Jeff Bezos",
+    "imgUrl": "https://wallpapercave.com/wp/wp4025615.jpg"
+},
+{
+    "name": "Katrina Kaif",
+    "imgUrl": "https://i.pinimg.com/originals/71/66/78/7166786727e5c6cf39c440900a4878f9.jpg"
+},
+{
+    "name": "Selena Gomez",
+    "imgUrl": "https://i.pinimg.com/originals/f2/e0/f5/f2e0f548b028650490d91b194ab31ad0.jpg"
+},
+{
+    "name": "Chris Jericho",
+    "imgUrl": "https://wallsdesk.com/wp-content/uploads/2016/12/Chris-Jericho-HD-Wallpaper.jpg"
+},
+{
+    "name": "John Morrison",
+    "imgUrl": "https://www.wrestling-world.com/imgb/5336/john-morrison-discusses-the-popularity-of-the-event-in-saudi-arabia.jpg"
+},
+{
+    "name": "Kirti Kharbandha",
+    "imgUrl": "https://images.malayalamfun.co.in/wp-content/uploads/2018/02/attractive-look-pics-of-Kriti-Kharbanda.jpg"
+},
+{
+    "name": "John Abraham",
+    "imgUrl": "https://www.filmibeat.com/wimgm/1366x70/desktop/2016/08/john-abraham_147133065900.jpg"
+},
+{
+    "name": "Randy Orton",
+    "imgUrl": "https://cdn-wp.thesportsrush.com/2020/12/a47708ec-eric-bischoff-compares-randy-orton-to-goldberg-and-other-wrestling-legends.png"
+},
+{
+    "name": "Brie Bella",
+    "imgUrl": "https://cdn.hipwallpaper.com/i/96/27/zfkly0.jpg"
+}
+]
